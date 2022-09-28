@@ -1,6 +1,10 @@
 # Hacktoberfest 2022
 
+## 2 Methods to Submit
+
 If you are expert : Directly head to 6.Custom_Code and upload your 4 repositories
+
+-------------------------------------
 
 If you are newbie..Follow the below procedure : 
 
