@@ -13,3 +13,7 @@ How to Participate?
 > Now Upload your 4 RP's on the respected Folder and then Hit `Create a Pull Request`
 
 > Voila! You are Done! Now wait for the Maintainer to Accept your RP!
+
+----------------------------------------------
+
+# Please avoid Spam and Invalid submissions
