@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Q9
+class min ruppee
 {
     public static void main(String args[])   
     {  
