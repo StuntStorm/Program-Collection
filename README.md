@@ -1,3 +1,5 @@
+-NO LONGER ACCEPTING ANY MORE PULL REQUEST! THANK YOU FOR PARTICIPATING-
+
 # Hacktoberfest 2022
 
 ## How to Participate?
