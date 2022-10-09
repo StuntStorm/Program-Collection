@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>JavaScript new Date and time</h2>
+<script>
+        var date = new Date();
+        var Month = date.toLocaleString("en-us", {
+            month: "long"
+        });
+        //This is used to convert the date to a word format, Or you can use multiple else-ifs to individually
+        //check the month number and give it a corresponding month
+        var Day = date.getDate();
+        var Year = date.getFullYear();
+        var H = date.getHours();
+        var M = date.getMinutes();
+        var S = date.getSeconds();
+
+        document.write("Date is : " + Day + " " + Month + " " + Year);
+        document.write("<br>Time is : ", H, " Hours : ", M, " Minutes : ", S, " Seconds");
+    </script>
+</body>
+</html>
+
+
+ 
+
