@@ -1,3 +1,5 @@
+// NOTE: you can run this code easily with node js, thanks for visit
+
 const plus = (a, b) => a + b;
 const minus = (a, b) => a - b;
 const times = (a, b) => a * b;
