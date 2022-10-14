@@ -13,7 +13,7 @@ public class MaxSumPair
         for(int i=0;i<nums.length;i++)
         {
             int curSum=sumdigits(nums[i]);
-            if(!map.containsKey(curSum)) //checks if cursum is preset
+            if(!map.containsKey(curSum)) //checks if cursum is present
             {
                 map.put(curSum, new ArrayList<>());
             }
